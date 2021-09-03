@@ -1,0 +1,27 @@
+{
+  "name": "rendezvous-protocol",
+  "version": "1.0.0",
+  "description": "A NodeJS implementation of the Heroku Rendezvous protocol.",
+  "main": "rendezvous.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrenny/rendezvous-protocol.git"
+  },
+  "keywords": [
+    "rendezvous",
+    "heroku",
+    "net",
+    "socket",
+    "protocol"
+  ],
+  "author": "TheBrenny <iam+dev@justbrenny.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBrenny/rendezvous-protocol/issues"
+  },
+  "homepage": "https://github.com/TheBrenny/rendezvous-protocol#readme",
+  "dependencies": {}
+}
